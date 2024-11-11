@@ -7,10 +7,6 @@ Welcome to the **PCB Design Guide**! This repository provides a comprehensive gu
 ## Table of Contents
 
 1. [Introduction to PCB Design](1_introduction_to_pcb_design.md)
-    - 1.1 [Introduction and Important Terminology](1_introduction_to_pcb_design.md#introduction-and-important-terminology)
-    - 1.2 [The Role of CAD Tools](1_introduction_to_pcb_design.md#the-role-of-cad-tools)
-    - 1.3 [Your First PCB Project](1_introduction_to_pcb_design.md#your-first-pcb-project)
-    - 1.4 [Summary](1_introduction_to_pcb_design.md#summary)
 2. [Schematic Design](1_schematic_design.md)
 3. [PCB Layout](2_pcb_layout.md)
 4. [Bill of Materials (BOM)](3_bom.md)
